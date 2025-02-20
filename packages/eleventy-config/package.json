@@ -48,9 +48,9 @@
     "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-plugin-directory-output": "^1.0.1",
     "@alwatr/font": "^1.2.0",
-    "@alwatr/logger": "^5.0.0",
-    "@alwatr/package-tracer": "^5.0.0",
-    "@alwatr/platform-info": "^5.0.0",
+    "@alwatr/logger": "^5.4.0",
+    "@alwatr/package-tracer": "^5.4.0",
+    "@alwatr/platform-info": "^5.4.0",
     "@swc/html": "^1.10.7",
     "cssnano": "^7.0.6",
     "markdown-it": "^14.1.0",
@@ -65,8 +65,8 @@
     "workbox-build": "^7.3.0"
   },
   "devDependencies": {
-    "@alwatr/nano-build": "^5.0.0",
-    "@alwatr/type-helper": "^5.0.0",
+    "@alwatr/nano-build": "^5.4.0",
+    "@alwatr/type-helper": "^5.3.0",
     "@nexim/typescript-config": "^2.0.0",
     "@types/11ty__eleventy-plugin-directory-output": "^1.0.0",
     "@types/eleventy-plugin-toc": "^1.1.0",

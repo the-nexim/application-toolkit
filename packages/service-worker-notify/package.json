@@ -48,15 +48,15 @@
   },
   "dependencies": {
     "@alwatr/i18n": "^2.0.4",
-    "@alwatr/logger": "^5.0.0",
-    "@alwatr/package-tracer": "^5.0.0",
+    "@alwatr/logger": "^5.4.0",
+    "@alwatr/package-tracer": "^5.4.0",
     "@alwatr/wait": "^1.1.16",
     "@nexim/service-worker": "1.0.4",
     "@nexim/snackbar": "^1.0.4"
   },
   "devDependencies": {
-    "@alwatr/nano-build": "^5.0.0",
-    "@alwatr/type-helper": "^5.0.0",
+    "@alwatr/nano-build": "^5.4.0",
+    "@alwatr/type-helper": "^5.3.0",
     "@nexim/typescript-config": "^2.0.0",
     "ava": "^6.2.0",
     "typescript": "^5.7.3",
