@@ -49,10 +49,10 @@
     "@alwatr/nano-build": "^5.0.0",
     "@alwatr/type-helper": "^5.0.0",
     "@nexim/typescript-config": "^2.0.0",
-    "@types/node": "^22.10.10",
+    "@types/node": "^22.13.5",
     "ava": "^6.2.0",
     "typescript": "^5.7.3",
-    "wireit": "^0.14.9"
+    "wireit": "^0.14.11"
   },
   "publishConfig": {
     "access": "public"
